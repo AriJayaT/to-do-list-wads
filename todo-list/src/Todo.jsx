@@ -14,7 +14,7 @@ export default function Todo() {
 
   return (
     <div className="bg-gradient-to-r from-purple-800 to-black min-h-screen text-white p-4">
-      <h1 className="text-2xl font-bold text-center mb-4">To-Do List</h1>
+      <h1 className="text-3xl font-bold text-center mb-4">To-Do List</h1>
       <div className="max-w-md mx-auto">
         <div className="bg-purple-900 p-6 rounded-lg shadow-lg">
           <TaskForm addTask={addTask} />
