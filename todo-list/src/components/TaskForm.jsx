@@ -21,7 +21,7 @@ export default function TaskForm({ addTask }) {
       />
       <button
         type="submit"
-        className="p-3 bg-purple-700 rounded-r hover:bg-purple-600"
+        className="p-3 bg-purple-700 rounded-r hover:bg-purple-600 cursor-pointer"
       >
         Add Task
       </button>
