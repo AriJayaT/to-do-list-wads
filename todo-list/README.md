@@ -2,7 +2,7 @@
 
 A modern, responsive to-do list application built with React, Firebase Authentication, and Firestore database. This app features a sleek, space-themed UI with authentication flows and real-time task management.
 
-![SpaceApp Screenshot](https://via.placeholder.com/800x400?text=SpaceApp+Screenshot)
+![SpaceApp Screenshot](./assets/screenshot.png)
 
 ## Features
 
