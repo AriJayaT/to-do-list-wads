@@ -62,7 +62,7 @@ npm run dev
 yarn dev
 ```
 
-5. **Open your browser**
+4. **Open your browser**
 
 Navigate to `http://localhost:5173` to see the application running.
 
@@ -117,4 +117,4 @@ The database has two main collections:
 
 ---
 
-Made with ❤️ by [Ari Jaya Teguh]
+Made with by Ari Jaya Teguh
