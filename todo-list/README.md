@@ -42,8 +42,8 @@ A modern, responsive to-do list application built with React, Firebase Authentic
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/spaceapp-todo.git
-cd spaceapp-todo
+git clone https://github.com/AriJayaT/to-do-list-wads.git
+cd to-do-list-wads/todo-list
 ```
 
 2. **Install dependencies**
